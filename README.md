@@ -1,5 +1,5 @@
 # COSC440 Generative Adversarial Network Assignment
-This repository contains the code for my submission for the COSC440 Generative Adversarial Network Assignment.
+This repository contains the code for my submission for the COSC440 Generative Adversarial Network Assignment with TensorFlow.
 
 ## Outputs for first 10 Epochs
 ### Epoch 1
